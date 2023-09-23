@@ -7,6 +7,7 @@
 
 import XCTest
 @testable import collectionView
+//integration test
 
 class ViewControllerIntegrationTests: XCTestCase {
     
